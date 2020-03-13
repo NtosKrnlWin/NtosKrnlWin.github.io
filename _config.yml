@@ -9,8 +9,12 @@ google_verification: null
 
 
 # File management
-include: [".htaccess"]
+include: [".htaccess", "_pages"]
 exclude: ["README.md", "LICENSE"]
+collections:
+  pages:
+    output: true
+    permalink: /notetree/noteleaf/
 
 # Sass
 sass:
