@@ -1,11 +1,11 @@
 tag1:
-  name: tag1
+  name: Kernel
 
 tag2:
-  name: tag2
+  name: Network
 
 tag3:
-  name: tag3
+  name: FileSystem
 
 tag4:
-  name: tag4
+  name: WinDbg
