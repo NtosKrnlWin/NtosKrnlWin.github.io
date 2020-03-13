@@ -1,4 +1,4 @@
-permalink: /:year:month:day/:title
+permalink: /notetree/noteleaf/:title
 url: #Your url here
 baseurl: /project
 
