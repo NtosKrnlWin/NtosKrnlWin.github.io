@@ -1,5 +1,6 @@
 ---
 title: "Get MAC address from command line (CMD)"
+date: 2017-11-19 09:49:00
 tags: Network Markdown
 ---
 
