@@ -4,7 +4,7 @@ tags: Security
 ---
 
 
-##[ Hardware ](347)
+##Hardware (347)
 
 * [Retweeted Nicolas Krassas (@ Dinosn): Reverse engineering the ARM1, ancestor of the iPhone's processor...](http://fb.me/YEobstWK)
 * [GunCon3 Reversing and Linux Driver](https://beardypig.github.io/2016/01/06/guncon3/)
@@ -355,7 +355,7 @@ tags: Security
 * [Intel CPU 内部阻抗测量指南：](http://www.keenlit.com/wp-content/uploads/2018/03/IFDIM-BKM-1.pdf)
 
 
-##[ Mac OS X ](78)
+##Mac OS X (78)
 
 * [A simple tool to dump the IOKit hierarchy of any KEXT or the kernel ->](https://github.com/jndok/iokit-dumper)
 * [Manual Analysis of ‘NSKeyedArchiver’ Formatted Plist Files - A Review of the NEW OS X 10.11 “Recent Items” #DFIR](http://www.mac4n6.com/blog/2016/1/1/manual-analysis-of-nskeyedarchiver-formatted-plist-files-a-review-of-the-new-os-x-1011-recent-items)
@@ -437,7 +437,7 @@ tags: Security
 * [CVE-2016-7595 Apple macOS/iOS CoreText OTL::GPOS::ApplyPairPos 越界访问漏洞分析：](https://security.tencent.com/index.php/blog/msg/111)
 
 
-##[ Others ](1788)
+##Others (1788)
 
 * [Latest FireEye updates include patches for our analysis engine evasion vulnerability. Details to be published soon.](https://www.fireeye.com/content/dam/fireeye-www/support/pdfs/2015-q4-security-vulnerability-advisory.pdf)
 * [Retweeted Binni Shah (@ binitamshah): Writing an OS in Rust - Remap the Kernel :](http://os.phil-opp.com/remap-the-kernel.html)
@@ -2229,7 +2229,7 @@ tags: Security
 * [使用 ESENTUTL.exe 锁定对文件的访问：](https://dfironthemountain.wordpress.com/2018/12/06/locked-file-access-using-esentutl-exe/)
 
 
-##[ Pentest ](644)
+##Pentest (644)
 
 * [Retweeted Binni Shah (@ binitamshah): Post Exploitation Command List Wiki : , PwnWiki.io...](https://github.com/mubix/post-exploitation/wiki)
 * [Reverse Proxy Attack Tools :](https://attackerkb.com/Combinations/ReverseProxyAttackTools)
@@ -2877,7 +2877,7 @@ tags: Security
 * [白帽子黑客训练 Part 6 - 后渗透：](https://www.prismacsi.com/en/6-post-exploitation/)
 
 
-##[ Popular Software ](932)
+##Popular Software (932)
 
 * [Trend Micro DLL hijacking](https://cxsecurity.com/issue/WLB-2016010003)
 * [Ganeti vulnerabilities allowing to take over VMs remotely CVE-2015-7944 CVE-2015-7945 #DoS #infoleak #DRBD](https://pierrekim.github.io/blog/2016-01-05-Ganeti-Info-Leak-DoS.html)
@@ -3813,7 +3813,7 @@ tags: Security
 * [Oracle EBS 无需认证的 Blind SSRF 漏洞详情披露(CVE-2018-3167)：](https://medium.com/@x41x41x41/unauthenticated-ssrf-in-oracle-ebs-765bd789a145)
 
 
-##[ Vulnerability ](877)
+##Vulnerability (877)
 
 * [PHP Session Data Injection Vulnerability.](https://bugs.php.net/bug.php?id=71101)
 * [Software with the most vulnerabilities in 2015. Hint: It's not Windows any more. From](http://venturebeat.com/2015/12/31/software-with-the-most-vulnerabilities-in-2015-mac-os-x-ios-and-flash/)
@@ -4694,7 +4694,7 @@ tags: Security
 * [Bank Muamalat 的 SQL 注入漏洞披露：](https://medium.com/@liontin/sql-injection-web-bank-muamalat-2beeaf845dc7)
 
 
-##[ Web Security ](594)
+##Web Security (594)
 
 * [Retweeted Binni Shah (@ binitamshah): Hacking with Websockets : (pdf)](https://media.blackhat.com/bh-us-12/Briefings/Shekyan/BH_US_12_Shekyan_Toukharian_Hacking_Websocket_Slides.pdf)
 * [Exploiting Server Side Request Forgery on a Node/Express Application (hosted on Amazon EC2)](http://sethsec.blogspot.com/2015/12/exploiting-server-side-request-forgery.html)
@@ -5292,7 +5292,7 @@ tags: Security
 * [绕过 Facebook CSRF 保护并进一步接管帐户：](https://ysamm.com/?p=185)
 
 
-##[ Windows ](1509)
+##Windows (1509)
 
 * [Properly Retrieving Win32 API Error Codes in #PowerShell](http://www.exploit-monday.com/2016/01/properly-retrieving-win32-api-error.html)
 * [How Attackers Dump Active Directory Database Credentials by @ PyroTek3](https://adsecurity.org/?p=2398)
@@ -6805,7 +6805,7 @@ tags: Security
 * [Windows 权限滥用：审计、检测与防御：](https://medium.com/palantir/windows-privilege-abuse-auditing-detection-and-defense-3078a403d74e)
 
 
-##[ Android ](864)
+##Android (864)
 
 * [Security Assessment of BlackBerry Messenger for Android -](https://cedricvb.be/wp-content/files/bbm-report.pdf)
 * [CopperheadOS - security hardened Android](http://goo.gl/GzrXCU)
@@ -7673,7 +7673,7 @@ tags: Security
 * [Adnroid reclaim 和 munmap 之间的条件竞争导致的 VMA binder UAF 漏洞（CVE-2019-1999）：](https://bugs.chromium.org/p/project-zero/issues/detail?id=1721)
 
 
-##[ Device ](11)
+##Device (11)
 
 * [UPC Router WPA2 pass recovery tool :](http://haxx.in/upc_keys.c)
 * [EZCast dongle wifi key can be guessed and RCE vulns used to compromise device remotely. No vendor response. #IoT](https://blog.checkpoint.com/wp-content/uploads/2015/12/EZCast_Report_Check_Point.pdf)
@@ -7688,7 +7688,7 @@ tags: Security
 * [Cisco Patches Hardcoded Password, DoS Vulnerabilities in Software, Devices: via @ threatpost](https://threatpost.com/cisco-patches-hardcoded-password-dos-vulnerabilities-in-software-devices/115881/)
 
 
-##[ Fuzzing ](204)
+##Fuzzing (204)
 
 * [Retweeted Binni Shah (@ binitamshah): The Art of Fuzzing without Fuzzing : (Slides) cc:...](https://github.com/bnagy/slides/blob/master/fuzzing_without_pub.pdf)
 * [FuzTip: Always enable Special Pool when fuzzing Windows Fonts/Kernel: "verifier.exe /flags 0x1 /driver Win32k.sys" (&amp; atmfd.dll). Saves time]()
@@ -7896,7 +7896,7 @@ tags: Security
 * [Structure-Aware - 通过 libFuzzer 进行结构感知的 fuzz ：](https://github.com/google/fuzzer-test-suite/blob/master/tutorial/structure-aware-fuzzing.md)
 
 
-##[ iOS ](444)
+##iOS (444)
 
 * [itrace ios private methods](https://github.com/waruqi/itrace)
 * [iOS 8.1.2 越狱过程详解及相关漏洞分析 - by Proteas of Qihoo 360 Nirvan Team](http://nirvan.360.cn/blog/?p=887)
@@ -8344,7 +8344,7 @@ tags: Security
 * [iOS/macOS: if_ports_used_update_wakeuuid() 中的16字节未初始化内核栈泄漏（CVE-2019-6209）：](https://bugs.chromium.org/p/project-zero/issues/detail?id=1714)
 
 
-##[ Linux ](606)
+##Linux (606)
 
 * [CVE-2014-2851 Linux Kernel group_info UAF Exploitation](https://cyseclabs.com/page?n=02012016)
 * [Blog Post: Compiler-Introduced Double-Fetch Vulnerabilities – Understanding XSA-155 -](http://tkeetch.co.uk/blog/?p=58)
@@ -8954,7 +8954,7 @@ tags: Security
 * [Ubuntu Linux dirty_sock 本地提权漏洞利用：](https://shenaniganslabs.io/2019/02/13/Dirty-Sock.html)
 
 
-##[ Network ](228)
+##Network (228)
 
 * [DHCPwn - A DHCP IP exhaustion tool](https://github.com/mschwager/dhcpwn)
 * [Detect Tor Exit doing sniffing by passively detecting unique DNS query Looking for feedback/comments! #tor #32c3](https://github.com/NullHypothesis/exitmap/issues/37)
@@ -9186,7 +9186,7 @@ tags: Security
 * [打造在 HTTP 代理环境下的反向 Socks 通道：](https://labs.portcullis.co.uk/blog/reverse-port-forwarding-socks-proxy-via-http-proxy-part-1/)
 
 
-##[ Sandbox ](49)
+## Sandbox (49)
 
 * [DLL Injection and much more in Python from @ s7ephen](https://s7ephen.github.io/SandKit/)
 * [An Adversarial View of SaaS Sandboxes : (Slides - 7.07 Mb)](https://github.com/bsidesnyc/BSidesNYC2016/blob/master/Presentations/Jason%20Trost%20&%20Aaron%20Shelmire%20-%20An%20Adversarial%20View%20of%20SaaS%20Sandboxes.pdf)
@@ -9239,7 +9239,7 @@ tags: Security
 * [Java Sandbox 逃逸的 20 年，介绍分析了多个 Java 重要安全漏洞及其带来的威胁:](http://phrack.org/papers/escaping_the_java_sandbox.html)
 
 
-##[ Tools ](3263)
+##Tools (3263)
 
 * [A Unikernel Firewall for QubesOS:](http://roscidus.com/blog/blog/2016/01/01/a-unikernel-firewall-for-qubesos/)
 * [VerbalExpression — regular expressions with normal words](https://github.com/VerbalExpressions/JSVerbalExpressions)
@@ -12506,7 +12506,7 @@ tags: Security
 * [SharpShooter v2.0 发布，关于本次更新的功能介绍：](https://www.mdsec.co.uk/2019/02/macros-and-more-with-sharpshooter-v2-0/)
 
 
-##[ Malware ](794)
+##Malware (794)
 
 * [SSHBearDoor is backdoored SSH server used by BlackEnergy group, detected now only by ESET](https://www.virustotal.com/en-gb/file/0969daac4adc84ab7b50d4f9ffb16c4e1a07c6dbfc968bd6649497c794a161cd/analysis/1451806935/)
 * [Analyzing Ransom32, the first JavaScript ransomware variant](http://securityaffairs.co/wordpress/43250/cyber-crime/ransom32-crypto-ransomware.html)
@@ -13304,7 +13304,7 @@ tags: Security
 * [通过替换关键命令诱捕入侵者的 Python 脚本：](https://twitter.com/JusticeRage/status/1095655920846204928)
 
 
-##[ Browser ](1037)
+##Browser (1037)
 
 * [Firefox's blacklist of GPU drivers and related bugs, useful if you're fuzzing/researching WebGL:](https://hg.mozilla.org/mozilla-central/file/tip/widget/windows/GfxInfo.cpp#l817)
 * [In IE11 (latest docmode), the event handling for passive elements depends on "markup quality" (i.e. quirks mode):](http://pastebin.com/raw/BSGDKYUn)
@@ -14345,7 +14345,7 @@ tags: Security
 * [Chakra 2019 年 2 月安全更新详情：](https://github.com/Microsoft/ChakraCore/pull/5936)
 
 
-##[ Debug ](104)
+##Debug (104)
 
 * [Debugging Early Boot Stages of Windows](http://standa-note.blogspot.com.es/2014/11/debugging-early-boot-stages-of-windows.html)
 * [ret-sync is a set of plugins that helps to synchronize a debugging session (WinDbg/GDB/LLDB/Oldbg2/x64dbg) with IDA](https://github.com/bootleg/ret-sync)
@@ -14453,7 +14453,7 @@ tags: Security
 * [使用 Winappdbg 和 Python 进行自动化软件调试：](https://mohitdabas.wordpress.com/2017/10/19/automating-simple-buffer-overflow-with-winappdbg-and-python-part-1/)
 
 
-##[ Defend ](110)
+##Defend (110)
 
 * [NCC Group Blog: Phishing Mitigations: Configuring Microsoft Exchange to Clearly Identify External Emails -](https://www.nccgroup.trust/uk/about-us/newsroom-and-events/blogs/2016/january/phishing-mitigations-configuring-microsoft-exchange-to-clearly-identify-external-emails/)
 * [Protecting Windows Networks - Applocker :](http://dfir-blog.com/2016/01/03/protecting-windows-networks-applocker/)
@@ -14567,7 +14567,7 @@ tags: Security
 * [使用 SPIRE 自动分发 TLS 证书以进行更安全的身份验证：](https://blog.envoyproxy.io/using-spire-to-automatically-deliver-tls-certificates-to-envoy-for-stronger-authentication-be5606ac9c75)
 
 
-##[ Mitigation ](59)
+##Mitigation (59)
 
 * [My analysis of the lib injection mitigation of #Edge: & source code of the tools mentioned:](http://www.sekoia.fr/blog/microsoft-edge-binary-injection-mitigation-overview/)
 * [“untrusted font mitigations for Windows 10”](https://www.microsoft.com/en-us/download/details.aspx?id=50766&WT.mc_id=rss_windows_allproducts)
@@ -14630,7 +14630,7 @@ tags: Security
 * [安全保护机制是如何在 ELF 文件中实现的：](http://bitlackeys.org/papers/secure_code_partitioning_2018.txt)
 
 
-##[ Attrack ](11)
+##Attrack (11)
 
 * [First known hacker-caused power outage signals troubling escalation](http://ow.ly/39IsX9)
 * [SMS Phishing Campaign Spreads in China](https://blogs.mcafee.com/mcafee-labs/sms-phishing-campaign-spreads-china/)
@@ -14645,7 +14645,7 @@ tags: Security
 * [Analysis confirms coordinated hack attack caused Ukrainian power outage](http://arstechnica.com/security/2016/01/analysis-confirms-coordinated-hack-attack-caused-ukrainian-power-outage/)
 
 
-##[ Detect ](190)
+##Detect (190)
 
 * [Applying machine learning to malware analysis slowly being demystified, see clustering 101:](http://blog.deepviz.com/2016/01/04/the-basics-of-clustering-behind-deepviz-part-2/)
 * [Malicious PDF Analysis : cc: @ DidierStevens #b2b (E-book/pdf)](http://blog.didierstevens.com/2010/09/26/free-malicious-pdf-analysis-e-book/)
@@ -14839,7 +14839,7 @@ tags: Security
 * [如何检测 BloodHound：](https://www.stuffithoughtiknew.com/2019/02/detecting-bloodhound.html)
 
 
-##[ Forensics ](97)
+##Forensics (97)
 
 * [NTFS Forensics : A Programmers View of Raw Filesystem Data Extraction :](http://grayscale-research.org/new/pdfs/NTFS%20forensics.pdf)
 * [File system forensic Analysis : (pdf) #b2b](http://www.campus64.com/digital_learning/data/cyber_forensics_essentials/info_file_system_forensic_analysis.pdf)
@@ -14940,7 +14940,7 @@ tags: Security
 * [分析并利用 AmCache 进行计算机取证：](https://www.ssi.gouv.fr/uploads/2019/01/anssi-coriin_2019-analysis_amcache.pdf)
 
 
-##[ ReverseEngineering ](238)
+##ReverseEngineering (238)
 
 * [Reverse Engineering for Malware Analysis - cheat sheet wallpaper : cc: @ r00tbsd](http://r00ted.com/cheat%20sheet%20reverse%20v5.png)
 * [Just released the source code of WWCD - What Would Capstone Decode IDA plugin for demo see:](https://github.com/sektioneins/WWCD)
@@ -15182,7 +15182,7 @@ tags: Security
 * [如何在安卓上绕过 Instagram SSL Pinning：](https://plainsec.org/how-to-bypass-instagram-ssl-pinning-on-android-v78/)
 
 
-##[ Crypto ](226)
+##Crypto (226)
 
 * [Researchers demonstrate new collision attacks against SHA-1 and MD5 in TLS, IKE and SSH -](http://ow.ly/WL0bu)
 * [KCI-based MitM Attacks against TLS :](https://github.com/maldevel/BSides_Vienna_2015/blob/master/kci_based_man_in_the_middle_attacks_against_tls.pdf)
@@ -15412,7 +15412,7 @@ tags: Security
 * [关于加密数据库的实现难点思考：](https://blog.cryptographyengineering.com/2019/02/11/attack-of-the-week-searchable-encryption-and-the-ever-expanding-leakage-function/)
 
 
-##[ Obfuscation ](48)
+##Obfuscation (48)
 
 * [Javascript Deobfuscator Updated:](http://www.kahusecurity.com/?p=13482)
 * [Experiments In JS Obfuscation & Deobfuscation For Hacking Html5 Apps And Malware Analysis #malware](http://damilarefagbemi.com/experiments-in-js-obfuscation-deobfuscation-for-hacking-html5-apps-and-malware-analysis/)
@@ -15464,7 +15464,7 @@ tags: Security
 * [代码混淆技术详细介绍：](https://www.synacktiv.com/ressources/jsecin_code_obfu.pdf)
 
 
-##[ Conference ](223)
+##Conference (223)
 
 * [YouTube videos of security conferences in 2015:](https://www.tunnelsup.com/online-security-conferences/)
 * [Videos and slides of #PrivacyCon:](https://www.ftc.gov/news-events/events-calendar/2016/01/privacycon)
@@ -15691,7 +15691,7 @@ tags: Security
 * [2019 INFILTRATE 大会 演讲者及议题公布：](http://infiltratecon.org/speakers/)
 
 
-##[ Exploit ](179)
+##Exploit (179)
 
 * [AuthentiShellcode Pops Calc From Authenticode block Signature Checks Out vie Sigcheck.exe :)](https://gist.github.com/subTee/a48d38ceba8e1e9d75ed)
 * [Microsoft SRD | Triaging the exploitability of IE/EDGE crashes](http://bit.ly/1PViSJM)
@@ -15874,7 +15874,7 @@ tags: Security
 * [WebKit 漏洞利用教程 ：](https://www.auxy.xyz/tutorial/Webkit-Exp-Tutorial/)
 
 
-##[ Attack ](538)
+##Attack (538)
 
 * [EMEA #CyberPredictions - Leadership become cyber security conscious. Full Report here:](http://bddy.me/22Y3J1B)
 * [In Brazil, anyone can be an overnight sensation in #cybercrime: #deepweb](http://bit.ly/1RzHzit)
@@ -16416,7 +16416,7 @@ tags: Security
 * [攻击 Helm 在 Kubernetes 上的默认安装：](https://blog.ropnop.com/attacking-default-installs-of-helm-on-kubernetes/)
 
 
-##[ SecurityProduct ](211)
+##SecurityProduct (211)
 
 * [.@ enirx gives step-by-step instructions for using #AutoFocus API & #Postman for automation](http://bit.ly/1PuEASa)
 * [Avast sandbox escape by @ taviso](http://code.google.com/p/google-security-research/issues/detail?id=700#c3)
@@ -16631,7 +16631,7 @@ tags: Security
 * [Check Point ZoneAlarm 杀毒软件本地提权漏洞分析：](https://www.illumant.com/blog/2019/01/16/check-point-anti-virus-technical-white-paper/)
 
 
-##[ ThirdParty ](42)
+##ThirdParty (42)
 
 * [ffmpeg vuln: process malicious video file & exfiltrate local file contents. Affects servers & endpoints:](http://permalink.gmane.org/gmane.comp.security.oss.general/18574)
 * [Roaming through the OpenSSH client: CVE-2016-0777 and CVE-2016-0778 via @ revskills](https://www.qualys.com/2016/01/14/cve-2016-0777-cve-2016-0778/openssh-cve-2016-0777-cve-2016-0778.txt)
@@ -16677,7 +16677,7 @@ tags: Security
 * [Django CMS v3.2.3 - Filter Bypass & Persistent Vulnerability #FullDisclosure](http://goo.gl/fb/P0rV7O)
 
 
-##[ IoTDevice ](325)
+##IoTDevice (325)
 
 * [Damn vulnerable router firmware :](http://b1ack0wl.com/projects/2015/12/25/Damn-Vulnerable-Router-Firmware/)
 * [UPC Ubee EVW3226 Fail : cc: @ _FireFart_](https://firefart.at/post/upc_ubee_fail/)
@@ -17006,7 +17006,7 @@ tags: Security
 * [以家庭路由为例讲解 IoT 逆向工程：](http://va.ler.io/myfiles/dva/iot-rev-engineering.pdf)
 
 
-##[ Operating System ](64)
+##Operating System (64)
 
 * [VxWorks Fuzzing 之道：VxWorks工控实时操作系统漏洞挖掘调试与利用揭秘 -](http://blog.knownsec.com/2016/01/vxworks-real-time-operation-system-fuzzing/)
 * [Writing a 16-bit dummy kernel in C/C++ -](http://www.codeproject.com/Articles/737545/Writing-a-bit-dummy-kernel-in-C-Cplusplus)
@@ -17074,7 +17074,7 @@ tags: Security
 * [针对 PC 的实模式、保护模式和长模式，以及相应汇编代码的介绍 ：](https://www.codeproject.com/Articles/45788/The-Real-Protected-Long-mode-assembly-tutorial-for)
 
 
-##[ Programming ](150)
+##Programming (150)
 
 * [Free Programming Books :](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md)
 * [Developing Secure Java Code – Best Practices for a Team #SecureCodingforJava](http://goo.gl/GmnhB3)
@@ -17228,7 +17228,7 @@ tags: Security
 * [ES2019 中新的 JavaScript 特性：](https://twitter.com/mathias/status/1090380500739506176)
 
 
-##[ Cloud ](58)
+##Cloud (58)
 
 * [Security Vulnerabilities in Cloud Application #CloudComputing #ApplicationSecurity #NetworkSecurity #Vulnerabilities](http://goo.gl/9Hl3qq)
 * [Docker Engine 1.10 Security Improvements! It's a bomb dot com release!](https://blog.docker.com/2016/02/docker-engine-1-10-security/)
@@ -17290,7 +17290,7 @@ tags: Security
 * [Microsoft Azure 团队宣布推出新的 Grafana 与 Microsoft Azure Monitor 日志集成功能：](https://azure.microsoft.com/zh-cn/blog/azure-monitor-logs-in-grafana-now-in-public-preview/)
 
 
-##[ Industry News ](522)
+##Industry News(522)
 
 * [Tech Support Scammers Lure Users With Fake Norton Warnings, Turn Out To Be Symantec Reseller](http://blog.malwarebytes.org/fraud-scam/2016/01/tech-support-scammers-lure-users-with-fake-norton-warnings-turn-out-to-be-symantec-reseller/)
 * [iSIGHT and FireEye: Ushering in a New Era of Intelligence-Led Security #infosec #threatintel](http://bddy.me/1lzJaGA)
@@ -17816,7 +17816,7 @@ tags: Security
 * [Nintendo Switch 的新版本固件在4小时内被攻破：](https://www.hackread.com/new-firmware-version-of-nintendo-switch-hacked/)
 
 
-##[ NetworkDevice ](66)
+##NetworkDevice (66)
 
 * [Cisco Guide to Harden Cisco IOS Devices :](http://www.cisco.com/c/en/us/support/docs/ip/access-lists/13608-21.html)
 * [Cisco Unified Computing System Manager and Cisco Firepower 9000 Remote Command Execution Vulnerability](http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20160120-ucsm)
@@ -17886,7 +17886,7 @@ tags: Security
 * [西部数据 My Cloud Pro Series PR2100 认证用户远程任意代码执行漏洞：](https://blogs.securiteam.com/index.php/archives/3679)
 
 
-##[ MalwareAnalysis ](1080)
+## MalwareAnalysis(1080)
 
 * [The Asacub Trojan: from spyware to banking malware](https://securelist.com/blog/research/73211/the-asacub-trojan-from-spyware-to-banking-malware/)
 * [Understanding #WMI Malware > still a good reference](http://la.trendmicro.com/media/misc/understanding-wmi-malware-research-paper-en.pdf)
@@ -18970,7 +18970,7 @@ tags: Security
 * [对 Lazarus 下载者的简要分析：](https://medium.com/emptyregisters/lazarus-downloader-brief-analy-17875f342d96)
 
 
-##[ Firmware ](129)
+## Firmware (129)
 
 * [Tytera MD380 Radio - Reverse Engineering](http://hackaday.com/2016/01/19/shmoocon-2016-reverse-engineering-cheap-chinese-radio-firmware/)
 * [UEFI boot script table exploit () with Linux DMA attack stuff should work fine on vulnerable Lenovo ThinkPad laptops](https://github.com/Cr4sh/UEFI_boot_script_expl)
@@ -19103,7 +19103,7 @@ tags: Security
 * [使用非法操作码对 x86 CPU 进行指纹识别：](https://x86.lol/generic/2019/02/08/fingerprint.html)
 
 
-##[ Virtualization ](181)
+##Virtualization (181)
 
 * [How Malware Detects Virtualized Environment, and its Countermeasures –An Overview](http://resources.infosecinstitute.com/how-malware-detects-virtualized-environment-and-its-countermeasures-an-overview/)
 * [Xen XSA 155: Double fetches in paravirtualized devices < @ _fel1x to provide demo & PoC at @ SyScan & @ InfiltrateCon](https://www.insinuator.net/2015/12/xen-xsa-155-double-fetches-in-paravirtualized-devices/)
@@ -19288,7 +19288,7 @@ tags: Security
 * [关于多租户容器间安全隔离的思考：](https://blog.jessfraz.com/post/secret-design-docs-multi-tenant-orchestrator/)
 
 
-##[ Rootkit ](38)
+##Rootkit (38)
 
 * [Rootkit basics ---> DKOM A bit out of date though...](http://bsodtutorials.blogspot.ca/2014/01/rootkits-direct-kernel-object.html)
 * [How to hide a hook - A hypervisor for rootkits : #Phrack](http://phrack.org/issues/69/15.html#article)
@@ -19330,7 +19330,7 @@ tags: Security
 * [《Rootkit and](http://xn--bootkits:https:-e82ny797blcjy09a6jllx7h0pne8gnj2azt7b//nostarch.com/rootkits)
 
 
-##[ WirelessSecurity ](274)
+##WirelessSecurity (274)
 
 * [Receiving C-Band AERO Signals](http://www.rtl-sdr.com/c-band-aero-signals/)
 * [When Whales Fly – Building a Wireless Pentest Environment using Docker](http://foxglovesecurity.com/2016/02/24/when-whales-fly-building-a-wireless-pentest-environment-using-docker/)
@@ -19608,7 +19608,7 @@ tags: Security
 * [使用 Bettercap 结合 PMKID 手法攻击 WPA/WPA2 网络：](https://www.evilsocket.net/2019/02/13/Pwning-WiFi-networks-with-bettercap-and-the-PMKID-client-less-attack/)
 
 
-##[ Backdoor ](64)
+##Backdoor (64)
 
 * [Backdooring Binary Objects : #b2b #Phrack](http://phrack.org/issues/56/9.html)
 * [The return of HackingTeam with new implants for OS X - Securelist some detail on the HT OSX implant](http://bit.ly/1TnZY2P)
@@ -19676,7 +19676,7 @@ tags: Security
 * [Trend Micro 对 Shadow Brokers 泄漏的一款 clocksvc.exe 后门的分析：](https://documents.trendmicro.com/assets/tech-brief-tildeb-analyzing-the-18-year-old-implant-from-the-shadow-brokers-leak.pdf)
 
 
-##[ ThreatIntelligence ](24)
+##ThreatIntelligence (24)
 
 * [Threat Intelligence Foundations: Crawl, Walk, Analyze (part 1) Blog series by @ PDXbek](http://bit.ly/1P0n8UL)
 * [New Security Tool: MrLooquer - IPv6 Intelligence #FullDisclosure](http://goo.gl/fb/cmkq6a)
@@ -19704,7 +19704,7 @@ tags: Security
 * [Acamar - 一款子域名收集工具：](https://github.com/si9int/Acamar)
 
 
-##[ Challenges ](102)
+##Challenges (102)
 
 * [CTF-Tools - Some setup scripts for security research tools: This is a collection of setup scripts to ... #PenTest](http://bit.ly/1R5G5db)
 * [Writing generic exploits for browsers 101 : cc: @ Friz_N](http://blog.frizn.fr/bkpctf-2016/qwn2own-bkpctf16)
@@ -19810,7 +19810,7 @@ tags: Security
 * [Drupalgeddon 2 POP 攻击链解析：](https://blog.ripstech.com/2019/complex-drupal-pop-chain/)
 
 
-##[ MachineLearning ](106)
+##MachineLearning  (106)
 
 * [Tensorflow - Play with neural networks : , Whitepaper :](https://github.com/tensorflow/playground)
 * [Understanding Machine Learning : From Theory to Algorithms : (pdf)](http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/understanding-machine-learning-theory-algorithms.pdf)
@@ -19920,7 +19920,7 @@ tags: Security
 * [深度学习技术在 Android 恶意软件检测中的应用(Paper)：](https://arxiv.org/ftp/arxiv/papers/1812/1812.10360.pdf)
 
 
-##[ OpenSourceProject ](140)
+##OpenSourceProject (140)
 
 * [ZDI-16-243: Google Chrome Pdfium JPEG2000 Out-Of-Bounds Read Information Disclosure Vulnerability](http://www.zerodayinitiative.com/advisories/ZDI-16-243/)
 * [[SuggestedReading] Bypassing password authentication of users that have 2FA enabled](http://ift.tt/1NxBXz6)
@@ -20064,7 +20064,7 @@ tags: Security
 * [Microsoft 开源 UEFI 项目（Project Mu）介绍 :](https://microsoft.github.io/mu/faq/)
 
 
-##[ Protocol ](83)
+##Protocol (83)
 
 * [The Security of HTTP-Headers](http://contextis.com/resources/blog/security-http-headers/)
 * [More LTE protocol implementation and new (unpatched) baseband vulnerabilities by Benoit Michau and C. Devine -](https://www.sstic.org/media/SSTIC2016/SSTIC-actes/how_to_not_break_lte_crypto/SSTIC2016-Article-how_to_not_break_lte_crypto-michau_devine.pdf)
@@ -20151,7 +20151,7 @@ tags: Security
 * [Microsoft 发布 《Solving the TLS 1.0 Problem, 2nd Edition》 白皮书，提供禁用 TLS 1.0 的最新方案：](https://cloudblogs.microsoft.com/microsoftsecure/2019/02/11/solving-the-tls-1-0-problem/)
 
 
-##[ Language ](58)
+##Language (58)
 
 * [Slides from my #Erlang security talk at #lambdaconf are now available. Look for a white paper for more in depth info](http://www.securitymouse.com/research)
 * [.@ gvanrossum announced (optional) static typing in #Python. #PyCon2016 #programming Slides:](https://www.dropbox.com/s/efatwr0pozsargb/PyCon%20mypy%20talk%202016.pdf?dl=0)
@@ -20213,7 +20213,7 @@ tags: Security
 * [Rust 语言安全研究:](https://snf.github.io/2019/01/10/rust-2019-security/)
 
 
-##[ macOS ](272)
+##macOS (272)
 
 * [A new Python project 'macholibre' could parse CodeSignature and symbols in Mach-O file: code clearer than macholib.](https://github.com/aaronst/macholibre)
 * [Joker (#iOS10/#OSX 12 #kernel reversing aid) v3.0(β): now shows MACF hooks, syscalls, MIG.](http://newosxbook.com/tools/joker.html#v3)
@@ -20489,7 +20489,7 @@ tags: Security
 * [针对 macOS/iOS CVE-2019-6231 漏洞的详细分析：](https://www.fortinet.com/blog/threat-research/detailed-analysis-of-macos-ios-vulnerability-cve-2019-6231.html)
 
 
-##[ SCADA ](37)
+##SCADA (37)
 
 * [[Report] FEYE iSIGHT Intel identified ~1,600 publicly disclosed #ICS vulns since 2000 #BHUSA](http://bddy.me/2asUO2T)
 * [PLC-Blaster Worm Targets Industrial Control Systems](https://threatpost.com/plc-blaster-worm-targets-industrial-control-systems/119696/)
@@ -20530,7 +20530,7 @@ tags: Security
 * [在网络核心设备上分析流量发现存在漏洞的工控系统(Paper)：](https://arxiv.org/abs/1901.04411)
 
 
-##[ Bug Bounty ](43)
+##Bug Bounty (43)
 
 * [Reviewing bug bounties - a hacker's perspective](http://www.skeletonscribe.net/2016/08/reviewing-bug-bounties-hackers.html)
 * [List of Wordpress vulnerabilities found during Summer of Pwnage](https://sumofpwn.nl/advisories.html)
@@ -20577,7 +20577,7 @@ tags: Security
 * [近几年的 Bug bounty writeups 及奖励情况收集列表：](https://pentester.land/list-of-bug-bounty-writeups.html)
 
 
-##[ Mobile ](154)
+##Mobile (154)
 
 * [Threat Analysis of Malicious Applications on Mobile Operating Systems : (pdf) cc @ Enno_Insinuator](https://www.ernw.de/download/newsletter/ERNW_Newsletter_55_Threat_Analysis_v1.0_signed.pdf)
 * [Mobile Security News Update September 2016 <-- Very Android Heavy](https://www.mulliner.org/blog/blosxom.cgi/security/mobile_security_news_update_sep2016.html)
@@ -20735,7 +20735,7 @@ tags: Security
 * [Amazing breakdown of how SMS works，短信的键入、存储、发送、接收以及显示的细节介绍：](https://scottbot.net/the-route-of-a-text-message/)
 
 
-##[ ](13)
+##other(13)
 
 * [漏洞组合拳 - 攻击分布式节点：](http://rickgray.me/2016/09/22/attacking-distributed-nodes-by-message-queue-injection.html)
 * [利用python进行识别相似图片： （1）： （2）：](https://segmentfault.com/a/1190000004467183)
@@ -20752,7 +20752,7 @@ tags: Security
 * [滥用 Windows 备份管理员权限提权：](https://decoder.cloud/2018/02/12/the-power-of-backup-operatos/)
 
 
-##[ SecurityReport ](215)
+##SecurityReport (215)
 
 * [A 60 page report on attacks from Iot botnets, by Institute for Critical Infrastructure Technology (@ICITorg):…](https://t.co/opYuf9rW5Q)
 * [What will the threat landscape be like in 2017? Our forecast: #securitypredictions](http://bit.ly/2h8HOW3)
@@ -20971,7 +20971,7 @@ tags: Security
 * [ENISA （欧盟网络信息安全局）发布的 2018 威胁全景报告：](https://www.enisa.europa.eu/publications/enisa-threat-landscape-report-2018)
 
 
-##[ Private ](11)
+##Private (11)
 
 * [Proof-of-Concept exploit for Edge bugs (CVE-2016-7200 & CVE-2016-7201):](https://github.com/theori-io/chakra-2016-11)
 * [WSL team fixed the non-elevated vs elevated vulnerability in build](http://15002:https://twitter.com/aionescu/status/818593743079178240)
@@ -20986,7 +20986,7 @@ tags: Security
 * [Google Creative Lab 推出的基于机器学习的 AutoDraw 画图服务：](https://www.autodraw.com/)
 
 
-##[ Symbolic Execution ](22)
+##Symbolic Execution (22)
 
 * [Introduction to Symbolic Execution : cc @ yurichev](https://yurichev.com/blog/symbolic/)
 * [FireEye 对远程符号解析技术的分析与解决方案：](https://www.fireeye.com/blog/threat-research/2017/06/remote-symbol-resolution.html)
@@ -21012,7 +21012,7 @@ tags: Security
 * [Symbolic Implementation of the Best Transformer (Paper)：](https://www.cs.cornell.edu/courses/cs711/2005fa/papers/rsy-vmcai04.pdf)
 
 
-##[ APT ](129)
+##APT (129)
 
 * [Enhanced Analysis of GRIZZLY STEPPE](http://bit.ly/2ltMKqt)
 * [2016中国高级持续性威胁研究报告：](https://ti.360.com/upload/report/file/28-2016APT-201702120743.pdf)
@@ -21145,7 +21145,7 @@ tags: Security
 * [分析 APT28 Zebrocy Delphi 加载器/后门变种: v6.02 -> v7.00：](https://www.vkremez.com/2018/12/lets-learn-dissecting-apt28-zebrocy.html)
 
 
-##[ Data Breach ](44)
+##Data Breach (44)
 
 * [俄罗斯 DNS 服务器出现问题，泄露了一份所有注册在俄罗斯顶级域名下的域名列表：](https://github.com/mandatoryprogrammer/RussiaDNSLeak)
 * [德克萨斯州的 Power Quality 工程公司泄露了 Dell、SBC、Freescale、Oracle 的敏感电力基础设施数据：](https://threatpost.com/engineering-firm-leaks-sensitive-data-on-dell-sbc-and-oracle/127290/)
@@ -21193,7 +21193,7 @@ tags: Security
 * ["Collection #1" 773万条数据泄露解析：](https://www.troyhunt.com/the-773-million-record-collection-1-data-reach/)
 
 
-##[ SecurityAdvisory ](78)
+##SecurityAdvisory (78)
 
 * [Xen hypervisor 发布公告，修复多个重要安全漏洞（XSA 216-224）：](https://github.com/QubesOS/qubes-secpack/blob/master/QSBs/qsb-031-2017.txt)
 * [Android 发布 7 月安全公告：](https://source.android.com/security/bulletin/2017-07-01)
@@ -21275,7 +21275,7 @@ tags: Security
 * [Microsoft 发布 2019 年 2 月安全更新： 致谢信息：](https://portal.msrc.microsoft.com/en-us/security-guidance/releasenotedetail/51503ac5-e6d2-e811-a983-000d3a33c573%C2%A0)
 
 
-##[ Compiler ](15)
+##Compiler (15)
 
 * [GCC low-level IR and basic code generation：](http://kristerw.blogspot.com/2017/08/gcc-low-level-ir-and-basic-code.html)
 * [GCC 合并了我写的代码，从编译器开始解决安全问题。来自嘶吼，作者为吴潍浠：](http://www.4hou.com/binary/7688.html)
@@ -21294,14 +21294,14 @@ tags: Security
 * [攻击客户端 JIT 编译器（Video），来自 BlackHat 2018 USA 大会:](https://twitter.com/5aelo/status/1062271783334625280)
 
 
-##[ CyberCrime ](3)
+##CyberCrime (3)
 
 * [苏维埃银行被抢后续-混合网络犯罪的研究：](https://www.trustwave.com/Resources/SpiderLabs-Blog/Post-Soviet-Bank-Heists---A-Hybrid-Cybercrime-Study/)
 * [国内地下网络犯罪揭秘，来自 McAfee ：](https://securingtomorrow.mcafee.com/mcafee-labs/chinese-cybercriminals-develop-lucrative-hacking-services/#sf177243351)
 * [Pawn Storm 网络间谍组织的新动向：](http://blog.trendmicro.com/trendlabs-security-intelligence/update-pawn-storm-new-targets-politically-motivated-campaigns/)
 
 
-##[ Processor ](23)
+##Processor (23)
 
 * [如何黑掉一台关机状态的 PC - 在 Intel ME 中运行未签名的代码，来自 BlackHat Europe 2017 会议：](https://www.blackhat.com/docs/eu-17/materials/eu-17-Goryachy-How-To-Hack-A-Turned-Off-Computer-Or-Running-Unsigned-Code-In-Intel-Management-Engine.pdf%C2%A0)
 * [还原 Intel ME 11.x 的 Huffman tables，来自 PTSecurity：](http://blog.ptsecurity.com/2017/12/huffman-tables-intel-me.html%C2%A0)
@@ -21328,7 +21328,7 @@ tags: Security
 * [解析 IDQ_UOPS_NOT_DELIVERED 性能计数器：](https://dendibakh.github.io/blog/2018/12/29/Understanding-IDQ_UOPS_NOT_DELIVERED)
 
 
-##[ Side Channel ](10)
+##Side Channel (10)
 
 * [BranchScope - 定向分支预测器的新型侧信道攻击(Paper) ：](http://www.cs.ucr.edu/~nael/pubs/asplos18.pdf)
 * [BranchScope - 定向分支预测器的新型侧信道攻击(Paper)：](http://www.cs.ucr.edu/~nael/pubs/asplos18.pdf%C2%A0)
@@ -21342,7 +21342,7 @@ tags: Security
 * [硬件无关的测信道攻击方法介绍，OS Page Cache 攻击（Paper）：](https://arxiv.org/pdf/1901.01161.pdf)
 
 
-##[ Blockchain ](31)
+##Blockchain (31)
 
 * [金钱难寐，大盗独行——以太坊 JSON-RPC 接口多种盗币手法大揭秘：](https://paper.seebug.org/656/)
 * [2018上半年区块链安全报告:](https://guanjia.qq.com/news/n1/2387.html)
@@ -21377,7 +21377,7 @@ tags: Security
 * [云上挖矿大数据：黑客最钟爱门罗币：](https://mp.weixin.qq.com/s/fyKbBCQ7MOtymlSIi3sIkw)
 
 
-##[ Standard ](2)
+##Standard (2)
 
 * [Microsoft 发布 Windows 10 和 Windows Server 2016 安全审核和监控参考标准：](https://www.microsoft.com/en-us/download/details.aspx?id=52630)
 * [由美国国家标准与技术研究所 (NIST) 发布的数字身份指南，身份验证和生命周期管理指南：](https://pages.nist.gov/800-63-3/sp800-63b.html)
